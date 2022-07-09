@@ -1,3 +1,6 @@
+![github banner](https://user-images.githubusercontent.com/108636838/178123165-964192f6-dab3-4bf2-8173-f80ad0166738.jpg)
+
+
 <h1 align="center">Hello !🌴, I'm Rizouie</h1>
 <h3 align="center">A Graphic Designer🖌, who makes a lot of things. Such as : UI, Banner, Logo ,Thumbnail and Advert Design In short, all the graphic identity of a person or a project 😀!</h3>
 
