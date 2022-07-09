@@ -11,7 +11,7 @@
 
 - 📩 You can reach me on this email : **_Rizer3500@gamil.com_**
 
-- 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
+- 💡 Fun fact, **I don't like to use email to reach me. If you want,you can do it on Discord 👇.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
