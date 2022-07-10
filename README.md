@@ -3,6 +3,8 @@
 
 <h1 align="center">Hello !🌴, I'm Rizouie</h1>
 <h3 align="center">A Graphic Designer🖌, who makes a lot of things. Such as : UI, Banner, Logo ,Thumbnail and Advert Design In short, all the graphic identity of a person or a project 😀!</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizouie&label=Profile%20views&color=e8893b&style=flat"  alt="rizouie" /> </p>
 
