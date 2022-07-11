@@ -16,6 +16,8 @@
 
 - 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Rizouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rizouille" height="30" width="40" /></a>
