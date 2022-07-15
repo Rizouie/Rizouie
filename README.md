@@ -33,7 +33,7 @@
   <img align="center" src="assets/tools/blackvsc.png" width="61px" />&nbsp;
   <img align="center" src="assets/tools/vc.png" width="60px" />&nbsp;
   <img align="center" src="assets/tools/photoshop.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/powerpoint.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/powerpointt.png" width="60px" />&nbsp;
 
 
 <hr>
