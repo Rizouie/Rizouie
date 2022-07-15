@@ -27,7 +27,7 @@
   
 
 <p align="right">
-<i><b>Tools Known:</b><i>
+<img src="assets/gifs/heart.gif" width="20px">&nbsp; <i><b>Tools Known:</b><i>
  <br><br>
   <img align="center" src="assets/tools/blackvsc.png" width="61px" />&nbsp;
   <img align="center" src="assets/tools/vc.png" width="60px" />&nbsp;
