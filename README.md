@@ -25,6 +25,7 @@
   <img align="center" src="assets/languages/css.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/html.png" width="65px" />&nbsp;
   <img align="center" src="assets/languages/python.png" width="55px" />&nbsp;
+  
 
 <p align="right">
 <i><b>Tools Known:</b><i>
@@ -32,6 +33,7 @@
   <img align="center" src="assets/tools/blackvsc.png" width="61px" />&nbsp;
   <img align="center" src="assets/tools/vc.png" width="60px" />&nbsp;
   <img align="center" src="assets/tools/photoshop.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/powerpoint.png" width="50px" />&nbsp;
 
 
 <hr>
