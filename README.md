@@ -17,9 +17,8 @@
 - 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
 <hr>
-
-<p align="left">                                                                                  
-<i><b>Languages Currently Learning:</b></i> 
+                                                                              
+<img src="assets/gifs/heart.gif" width="20px">&nbsp; <i><b>Languages Currently Learning:</b></i> 
   <br><br>
   <img align="center" src="assets/languages/C.png" width="51px" />&nbsp;
   <img align="center" src="assets/languages/css.png" width="50px" />&nbsp;
