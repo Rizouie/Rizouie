@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hello !🌴, I'm Rizouie</h1>
-<h3 align="center">A Graphic Designer🖌, who makes a lot of things. Such as : UI, Banner, Logo ,Thumbnail and Advert Design In short, all the graphic identity of a person or a project 😀!</h3>
+<h3 align="center">A Graphic Designer🖌, who makes a lot of things. Such as UI, Banner, Logo, Thumbnail, and Advert Design In short, all the graphic identity of a person or a project 😀!
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizouie&label=Profile%20views&color=e8893b&style=flat"  alt="rizouie" /> </p>
@@ -39,7 +40,7 @@
 
 
 <p align = "center">
-  <i><b>Profiles:</b></i><br><br>
+  <img src="assets/gifs/unemployed-bank-account.gif" width="20px">&nbsp; <i><b>Profiles:</b></i><br><br>
   <a href="mailto:Rizer3500@gmail.com">
     <img align="center" alt="Rizouie @Mail" width="50px" src="assets/contact logos/gmail.png" />&nbsp;
   </a>
