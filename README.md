@@ -24,7 +24,7 @@
   <a href="mailto:Rizer3500@gmail.com">
     <img align="center" alt="Rizouie @Mail" width="50px" src="assets/contact logos/gmail.png" />&nbsp;
   </a>
-  <a href="https://discord.gg/5bCcEMEk8e">
+  <a href="https://discord.com/users/536145260204785677">
     <img align="center" alt="Rizouie @Discord" width="50px" src="assets/contact logos/discord.png" />&nbsp;
   </a>
   <a href="https://twitter.com/Rizouie">
