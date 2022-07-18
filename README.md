@@ -11,7 +11,7 @@
 ## 🎑 About Me :
 - 📝 I’m currently learning **Coding, and I am not gonna say no for some help 😅.**
 
-- 📎 All of my projects available there : _Currenty unavailabe, Comming Soon !_
+-  <img src="assets/gifs/building.gif" width="20px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
 
 - 📩 You can reach me on this email : **_Rizer3500@gamil.com_**
 
