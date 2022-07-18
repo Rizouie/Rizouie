@@ -18,24 +18,7 @@
 - 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
 <hr>
-                                                                              
-<img src="assets/gifs/heart.gif" width="20px">&nbsp; <i><b>Languages Currently Learning:</b></i> 
-  <br><br>
-  <img align="center" src="assets/languages/C.png" width="51px" />&nbsp;
-  <img align="center" src="assets/languages/css.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/html.png" width="65px" />&nbsp;
-  <img align="center" src="assets/languages/python.png" width="55px" />&nbsp;
-  
-
-<p align="right">
-<img src="assets/gifs/heart.gif" width="20px">&nbsp; <i><b>Tools Known:</b><i>
- <br><br>
-  <img align="center" src="assets/tools/blackvsc.png" width="61px" />&nbsp;
-  <img align="center" src="assets/tools/vc.png" width="60px" />&nbsp;
-  <img align="center" src="assets/tools/photoshop.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/powerpointt.png" width="60px" />&nbsp;
-
-
+ <img scr="assets/banner.gif">
 <hr>
 
 
