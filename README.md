@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello !🌴, I'm Rizouie</h1>
-<h3 align="center"> <img src="assets/gifs/painting-art.gif" width="24px"> A Graphic Designer, who makes a lot of things. Such as UI, Banner, Logo, Thumbnail, and Advert Design In short, all the graphic identity of a person or a project 😀!
+<h3 align="center"> <img src="assets/gifs/painting-art.gif" width="24px"> A Graphic Designer, who makes a lot of things. Such as UI, Banner, Logo, Thumbnail, and Advert Design In short, all the graphic identity of a person or a project 😀!  
 </h3>
 
 
@@ -13,7 +13,7 @@
 
 -  <img src="assets/gifs/building.gif" width="20px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
 
--  <img src="assets/gifs/email.gif" width="20px"> You can reach me on this email : **_Rizer3500@gamil.com_**
+-   You can reach me on this email : **_Rizer3500@gamil.com_**
 
 - 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
