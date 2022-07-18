@@ -15,7 +15,7 @@
 
 -  <img src="assets/gifs/mail.gif" width="25px"> You can reach me on this email : **_Rizer3500@gamil.com_**
 
-- 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
+-  <img src="assets/gifs/fact.gif" width="25px"> Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
 <hr>
 
