@@ -11,7 +11,7 @@
 ## 🎑 About Me :
 -  <img src="assets/gifs/project.gif" width="22px"> I’m currently learning **Coding, and I am not gonna say no for some help 😅.**
 
--  <img src="assets/gifs/building.gif" width="20px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
+-  <img src="assets/gifs/project.gif" width="22px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
 
 -  <img src="assets/gifs/mail.gif" width="25px"> You can reach me on this email : **_Rizer3500@gamil.com_**
 
