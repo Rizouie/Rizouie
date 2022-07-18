@@ -19,8 +19,8 @@
 
 <hr>
 
-<p align="center">
- <img scr="assets/gifs/banner.gif">
+![banner](https://user-images.githubusercontent.com/108636838/179437752-077ed61b-5bf1-4382-9951-1b0a60426a14.gif)
+
 
 <hr>
 
