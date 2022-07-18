@@ -18,7 +18,10 @@
 - 💡 Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
 <hr>
+
+<p align="center">
  <img scr="assets/gifs/banner.gif">
+
 <hr>
 
 
