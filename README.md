@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello !🌴, I'm Rizouie</h1>
-<h3 align="center"> <img src="assets/gifs/painting-art.gif" width="20px"> A Graphic Designer, who makes a lot of things. Such as UI, Banner, Logo, Thumbnail, and Advert Design In short, all the graphic identity of a person or a project 😀!
+<h3 align="center"> <img src="assets/gifs/painting-art.gif" width="24px"> A Graphic Designer, who makes a lot of things. Such as UI, Banner, Logo, Thumbnail, and Advert Design In short, all the graphic identity of a person or a project 😀!
 </h3>
 
 
