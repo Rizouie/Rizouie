@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizouie&label=Profile%20views&color=e8893b&style=flat"  alt="rizouie" /> </p>
 
 ## 🎑 About Me :
--  <img src="assets/gifs/project.gif" width="22px"> I’m currently learning **Coding, and I am not gonna say no for some help 😅.**
+-  <img src="assets/gifs/coding.gif" width="25px"> I’m currently learning **Coding, and I am not gonna say no for some help 😅.**
 
 -  <img src="assets/gifs/project.gif" width="22px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
 
