@@ -19,7 +19,7 @@
 
 <hr>
 
-![banner](https://user-images.githubusercontent.com/108636838/180239980-a1e68358-ec1b-4b6b-ac1e-5870cb368b56.gif)
+![bannerMblack](https://user-images.githubusercontent.com/108636838/180505689-ad70d86a-8f15-419c-927a-ac61e3f62034.gif)
 
 <hr>
 
