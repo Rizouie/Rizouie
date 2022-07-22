@@ -27,13 +27,13 @@
 <p align = "center">
   <img src="assets/gifs/unemployed-bank-account.gif" width="20px">&nbsp; <i><b>Profiles:</b></i><br><br>
   <a href="mailto:Rizer3500@gmail.com">
-    <img align="center" alt="Rizouie @Mail" width="50px" src="assets/contact logos/gmail.png" />&nbsp;
+    <img align="center" alt="Rizouie @Mail" width="45px" src="assets/contact logos/gmail.png" />&nbsp;
   </a>
   <a href="https://discord.com/users/536145260204785677">
-    <img align="center" alt="Rizouie @Discord" width="50px" src="assets/contact logos/discord.png" />&nbsp;
+    <img align="center" alt="Rizouie @Discord" width="45px" src="assets/contact logos/discord.png" />&nbsp;
   </a>
   <a href="https://twitter.com/Rizouie">
-    <img align="center" alt="Rizouie @Twitter" width="50px" src="assets/contact logos/twitter.png" />&nbsp;
+    <img align="center" alt="Rizouie @Twitter" width="45px" src="assets/contact logos/twitter.png" />&nbsp;
   </a>
 </p>
 
