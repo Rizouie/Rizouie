@@ -19,6 +19,10 @@
 
 <hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizouie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 ![bannerMblack](https://user-images.githubusercontent.com/108636838/180505689-ad70d86a-8f15-419c-927a-ac61e3f62034.gif)
 
 <hr>
