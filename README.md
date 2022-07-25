@@ -19,7 +19,7 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizouie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizouie&bg_color=-45,c6995e,eab676,c6995e,c6995e,c6995e&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
