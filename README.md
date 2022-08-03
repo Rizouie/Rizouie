@@ -30,7 +30,7 @@
 
 <p align = "center">
   <img src="assets/gifs/unemployed-bank-account.gif" width="20px">&nbsp; <i><b>Profiles:</b></i><br><br>
-  <a href="Rizer3500@gmail.com">
+  <a href="mailto:Rizer3500@gmail.com">
     <img align="center" alt="Rizouie @Mail" width="45px" src="assets/contact logos/gmail.png" />&nbsp;
   </a>
   <a href="https://discord.com/users/536145260204785677">
