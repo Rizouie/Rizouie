@@ -13,7 +13,7 @@
 
 -  <img src="assets/gifs/project.gif" width="22px"> All of my projects available there : _Currenty unavailabe, Comming Soon !_
 
--  <img src="assets/gifs/mail.gif" width="25px"> You can reach me on this email : **_Rizer3500@gamil.com_**
+-  <img src="assets/gifs/mail.gif" width="25px"> You can reach me on this email : **_Rizer3500@gmail.com_**
 
 -  <img src="assets/gifs/fact.gif" width="20px"> Fun fact, **I don't like to use email to reach me. If you want, you can do it on Discord 👇.**
 
