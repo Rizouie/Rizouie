@@ -19,7 +19,7 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizouie&bg_color=-45,99774A,C6995E,C6995E,C6995E,FADFAA,&title_color=ffffff&text_color=ffffff&icon_color=fcdcab&hide_border=true&show_icons=true&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizouie&bg_color=-45,2A531B,3F6C24,689424,95B343,BECF65,&title_color=ffffff&text_color=ffffff&icon_color=fcdcab&hide_border=true&show_icons=true&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
