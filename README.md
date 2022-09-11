@@ -40,5 +40,5 @@
     <img align="center" alt="Rizouie @Twitter" width="45px" src="assets/contact logos/twitter.png" />&nbsp;
   </a>
 </p>
-
+    <i><b><h5 align="right"> Follow me for more !</b></i>
 <hr>
